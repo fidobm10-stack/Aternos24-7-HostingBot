@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "tara9_smp.aternos.me",
+    "ip":"tara9_smp.aternos.me",
     "port": 62973,
     "version": "",
     "try-creative": false
